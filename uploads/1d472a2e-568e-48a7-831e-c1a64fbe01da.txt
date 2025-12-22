@@ -1,0 +1,23 @@
+
+John Doe
+Software Engineer
+Email: john.doe@email.com
+Phone: (555) 123-4567
+
+SKILLS:
+- Python
+- JavaScript
+- React
+- FastAPI
+- Machine Learning
+- Data Analysis
+
+EXPERIENCE:
+Software Engineer at Tech Company (2020-2023)
+- Developed web applications using React and Python
+- Implemented machine learning models
+- Worked with databases and APIs
+
+EDUCATION:
+Bachelor of Science in Computer Science
+University of Technology (2016-2020)

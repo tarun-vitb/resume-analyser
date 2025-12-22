@@ -1,0 +1,54 @@
+John Doe
+Senior Software Engineer
+Email: john.doe@email.com
+Phone: (555) 123-4567
+
+SKILLS:
+Python, JavaScript, React, Node.js, SQL, Git, Docker, AWS, HTML, CSS, MongoDB, PostgreSQL, FastAPI, Express.js, Machine Learning, Data Analysis
+
+EXPERIENCE:
+Senior Software Engineer | TechCorp Solutions | 2021-2024
+• Developed and maintained web applications using React and Python
+• Built RESTful APIs with FastAPI and Node.js
+• Managed databases including PostgreSQL and MongoDB
+• Deployed applications on AWS cloud infrastructure
+• Led a team of 4 junior developers
+• Implemented CI/CD pipelines using Docker and Jenkins
+• Improved application performance by 40%
+
+Software Developer | StartupXYZ | 2019-2021
+• Created responsive web interfaces using React and JavaScript
+• Developed backend services with Python and Express.js
+• Worked with SQL databases and performed data analysis
+• Collaborated with cross-functional teams in Agile environment
+• Implemented user authentication and authorization systems
+
+Junior Developer | WebDev Inc | 2018-2019
+• Built websites using HTML, CSS, and JavaScript
+• Learned Python programming and web frameworks
+• Assisted in database design and optimization
+• Participated in code reviews and testing
+
+EDUCATION:
+Bachelor of Computer Science | University of Technology | 2014-2018
+• Relevant coursework: Data Structures, Algorithms, Database Systems, Web Development
+• GPA: 3.8/4.0
+• Senior project: E-commerce platform using React and Python
+
+PROJECTS:
+E-commerce Platform
+• Full-stack web application with React frontend and FastAPI backend
+• Integrated payment processing using Stripe API
+• Implemented user authentication and product management
+• Deployed using Docker containers on AWS
+
+Data Analytics Dashboard
+• Python application for processing and visualizing large datasets
+• Used Pandas and NumPy for statistical analysis
+• Created interactive charts with Matplotlib and Plotly
+• Automated report generation and email notifications
+
+CERTIFICATIONS:
+• AWS Certified Solutions Architect
+• Google Cloud Professional Developer
+• MongoDB Certified Developer

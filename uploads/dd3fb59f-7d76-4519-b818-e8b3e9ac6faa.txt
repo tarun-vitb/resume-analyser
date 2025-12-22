@@ -1,0 +1,13 @@
+
+John Doe
+Software Engineer
+
+SKILLS:
+Python
+JavaScript  
+React
+Machine Learning
+TensorFlow
+AWS
+Docker
+SQL

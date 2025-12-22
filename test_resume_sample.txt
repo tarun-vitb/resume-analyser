@@ -1,0 +1,60 @@
+John Smith
+Senior Software Engineer
+Email: john.smith@email.com
+Phone: (555) 123-4567
+
+TECHNICAL SKILLS:
+• Programming Languages: Python, JavaScript, Java, TypeScript, SQL
+• Web Technologies: React, Node.js, Express, HTML, CSS, Bootstrap
+• Databases: PostgreSQL, MongoDB, Redis, MySQL
+• Cloud & DevOps: AWS, Docker, Kubernetes, Jenkins, Git
+• Machine Learning: TensorFlow, Scikit-learn, Pandas, NumPy
+• Tools: Linux, Agile, Scrum, REST APIs
+
+PROFESSIONAL EXPERIENCE:
+
+Senior Software Engineer | TechCorp Solutions | 2021 - Present
+• Developed and maintained scalable web applications using React and Node.js
+• Built RESTful APIs with Python FastAPI serving 10,000+ daily users
+• Implemented machine learning models for predictive analytics using TensorFlow
+• Managed PostgreSQL databases and optimized queries for 40% performance improvement
+• Led a team of 4 developers using Agile methodologies
+• Deployed applications on AWS using Docker containers and Kubernetes orchestration
+
+Software Developer | StartupXYZ | 2019 - 2021
+• Created responsive web interfaces using React and modern JavaScript
+• Developed backend services with Python Django and Express.js
+• Worked with MongoDB and implemented data analysis pipelines
+• Collaborated with cross-functional teams in fast-paced startup environment
+• Implemented user authentication and authorization systems
+• Participated in code reviews and maintained 95% test coverage
+
+Junior Developer | WebDev Inc | 2018 - 2019
+• Built websites using HTML, CSS, JavaScript, and Bootstrap
+• Learned Python programming and web development frameworks
+• Assisted in database design and SQL query optimization
+• Participated in Agile development processes and daily standups
+
+EDUCATION:
+Bachelor of Computer Science | University of Technology | 2014 - 2018
+• Relevant Coursework: Data Structures, Algorithms, Database Systems, Web Development
+• Senior Project: E-commerce platform using React and Python
+• GPA: 3.8/4.0
+
+PROJECTS:
+E-commerce Platform (2023)
+• Full-stack application with React frontend and FastAPI backend
+• Integrated Stripe payment processing and user management
+• Deployed using Docker containers on AWS with CI/CD pipeline
+• Technologies: React, Python, FastAPI, PostgreSQL, AWS, Docker
+
+Data Analytics Dashboard (2022)
+• Python application for processing and visualizing large datasets
+• Used Pandas and NumPy for statistical analysis and data manipulation
+• Created interactive charts with Matplotlib and implemented real-time updates
+• Technologies: Python, Pandas, NumPy, Matplotlib, PostgreSQL
+
+CERTIFICATIONS:
+• AWS Certified Solutions Architect (2023)
+• Google Cloud Professional Developer (2022)
+• MongoDB Certified Developer (2021)

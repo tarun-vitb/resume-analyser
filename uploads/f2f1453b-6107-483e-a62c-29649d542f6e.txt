@@ -1,0 +1,17 @@
+
+SARAH JOHNSON
+Senior Data Scientist
+
+TECHNICAL SKILLS
+Programming: Python, R, SQL, JavaScript
+Machine Learning: TensorFlow, PyTorch, Machine Learning, Deep Learning
+Data Analysis: Pandas, NumPy, Statistics
+Cloud: AWS, Docker, Kubernetes
+Web: React, HTML, CSS
+Databases: PostgreSQL, MongoDB
+
+EXPERIENCE
+Senior Data Scientist | DataCorp | 2021-Present
+- Built ML models using Python and TensorFlow
+- Data analysis with Pandas and NumPy
+- Deployed on AWS with Docker

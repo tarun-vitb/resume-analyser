@@ -1,0 +1,4 @@
+
+JOHN DOE
+Software Developer
+SKILLS: Python, JavaScript, React, Machine Learning, AWS

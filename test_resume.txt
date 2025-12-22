@@ -1,0 +1,41 @@
+John Smith
+Software Developer
+
+EXPERIENCE
+Senior Software Developer at TechCorp (2020-2024)
+- Developed web applications using Python, JavaScript, and React
+- Built REST APIs with Django and Flask frameworks
+- Worked with PostgreSQL and MongoDB databases
+- Implemented CI/CD pipelines using Jenkins and Docker
+- Collaborated with cross-functional teams using Agile methodology
+
+Junior Developer at StartupXYZ (2018-2020)
+- Created responsive websites using HTML, CSS, and JavaScript
+- Worked with Node.js and Express for backend development
+- Used Git for version control and GitHub for collaboration
+- Participated in code reviews and testing processes
+
+EDUCATION
+Bachelor of Science in Computer Science
+University of Technology (2014-2018)
+
+SKILLS
+Programming Languages: Python, JavaScript, TypeScript, Java
+Web Technologies: React, Angular, HTML, CSS, Bootstrap
+Backend: Django, Flask, Node.js, Express, REST API
+Databases: PostgreSQL, MySQL, MongoDB, Redis
+DevOps: Docker, Kubernetes, Jenkins, AWS, Linux
+Tools: Git, GitHub, VS Code, Postman
+
+PROJECTS
+E-commerce Platform
+- Built full-stack web application using React and Django
+- Implemented user authentication and payment processing
+- Deployed on AWS using Docker containers
+- Used PostgreSQL for data storage
+
+Task Management System
+- Developed REST API using Flask and SQLAlchemy
+- Created responsive frontend with JavaScript and Bootstrap
+- Implemented real-time notifications using WebSockets
+- Used Redis for caching and session management

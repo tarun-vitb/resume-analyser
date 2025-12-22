@@ -1,0 +1,34 @@
+
+JANE SMITH
+Data Scientist & Machine Learning Engineer
+Email: jane.smith@email.com | Phone: (555) 987-6543
+
+TECHNICAL SKILLS
+Programming Languages: Python, R, JavaScript, SQL
+Machine Learning: TensorFlow, PyTorch, Scikit-learn, Machine Learning, Deep Learning
+Data Analysis: Pandas, NumPy, Data Analysis, Statistics
+Web Technologies: React, HTML, CSS, Node.js
+Cloud & DevOps: AWS, Docker, Kubernetes
+Databases: PostgreSQL, MongoDB, Redis
+Tools: Git, Jupyter, VS Code
+
+PROFESSIONAL EXPERIENCE
+Senior Data Scientist | DataTech Corp | 2021 - Present
+- Built machine learning models using Python, TensorFlow, and PyTorch
+- Performed data analysis using Pandas and NumPy on large datasets
+- Deployed models on AWS using Docker and Kubernetes
+- Developed web dashboards using React and JavaScript
+
+Data Analyst | Analytics Inc | 2019 - 2021
+- Analyzed data using Python, R, and SQL
+- Created visualizations and reports
+- Worked with PostgreSQL and MongoDB databases
+
+EDUCATION
+Master of Science in Data Science | MIT | 2019
+Bachelor of Science in Computer Science | Stanford | 2017
+
+PROJECTS
+- Customer Segmentation: Used machine learning and Python for customer analysis
+- Recommendation System: Built using TensorFlow and deployed on AWS
+- Data Pipeline: Created using Python, Docker, and PostgreSQL

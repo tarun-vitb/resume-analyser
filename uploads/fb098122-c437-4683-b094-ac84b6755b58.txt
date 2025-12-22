@@ -1,0 +1,23 @@
+
+JOHN SMITH
+Senior Software Engineer
+Email: john.smith@email.com | Phone: (555) 123-4567
+
+TECHNICAL SKILLS
+Programming Languages: Python, JavaScript, TypeScript, Java, Go
+Web Technologies: React, Angular, Node.js, HTML, CSS
+Backend & APIs: REST APIs, GraphQL, FastAPI, Django
+Databases: PostgreSQL, MongoDB, Redis, MySQL
+Cloud & DevOps: AWS, Docker, Kubernetes, Jenkins
+Data Science & ML: Machine Learning, TensorFlow, PyTorch, Pandas, NumPy
+Tools: Git, Jira, VS Code, Postman
+
+PROFESSIONAL EXPERIENCE
+Senior Software Engineer | TechCorp Inc. | 2020 - Present
+- Developed web applications using React and Node.js
+- Implemented machine learning models using TensorFlow and Python
+- Built REST APIs using FastAPI and Django
+- Deployed on AWS using Docker and Kubernetes
+
+EDUCATION
+Master of Science in Computer Science | Stanford University | 2018
